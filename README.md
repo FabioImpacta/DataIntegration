@@ -7,6 +7,7 @@ Atividades do curso Data Integration do curso MBA - Data Engineering da Faculdad
 ---
 O repositório está organizado da seguinte forma
 - atividade02 : coleta de dados do rover da Nasa que está em Marte.
+
 Etapas:
 1 - fazer a coleta dos dados
 2 - tratar o resultado json para o formato tabular

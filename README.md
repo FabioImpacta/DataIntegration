@@ -11,3 +11,5 @@ Etapas:
 - fazer a coleta dos dados do mês corrente;
 - tratar e salvar o resultado em arquivo csv;
 - coletar e gravar as fotos disponíveis organizadas em diretórios por data.
+
+Obs.: primeiro será necessário criar o login e gerar uma chave de acesso na API da NASA (https://api.nasa.gov).
